@@ -1,6 +1,6 @@
 # doc-driven-dev
 
-A document-driven development workflow for Claude Code: one shared skill plus ten slash commands that keep project state on disk instead of inside a long chat session. Every session starts by reading the docs and ends by writing results back, so sessions become disposable, work can run in parallel windows, and each new task in the same repo starts cheaper than the last. Documentation below is in Chinese.
+A document-driven development workflow for Claude Code: one shared skill plus ten slash commands that keep project state on disk instead of inside a long chat session. Every session starts by reading the docs and ends by writing results back, so sessions become disposable, work can run in parallel windows, and each new task in the same repo starts cheaper than the last. Documentation below is in Chinese. [English version](https://github.com/jasonkjin/doc-driven-dev-eng)
 
 **一句话:把项目状态写进文档,让会话变成一次性的消耗品。**
 
